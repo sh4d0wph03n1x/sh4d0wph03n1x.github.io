@@ -9,4 +9,4 @@ dpkg-scanpackages -m ~/sh4d0wph03n1x.github.io/debs > ~/sh4d0wph03n1x.github.io/
 
 git add *
 git commit -m "Add debs"
-git push origin remote
+git push -u origin master
