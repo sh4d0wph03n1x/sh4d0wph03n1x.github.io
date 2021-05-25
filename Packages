@@ -2,7 +2,7 @@ Package: com.ph03n1x.delta
 Version: 1.2
 Architecture: iphoneos-arm
 Maintainer: Ph03n1x
-Filename: ./debs/com.ph03n1x.delta_1.2_iphoneos-arm.deb
+Filename: /Users/zsnell/sh4d0wph03n1x.github.io/debs/com.ph03n1x.delta_1.2_iphoneos-arm.deb
 Size: 15057592
 MD5sum: 917e58214fa2fe850642ea676ec72950
 SHA1: cb047d0b44b67f4e46e9e77111fc25a221e60753
@@ -10,4 +10,22 @@ SHA256: 892e881db6611d810bcb481172cd99fca27c2d0189361d3973b5b4902cc975fe
 Description: Delta emulator as a tweak
 Author: rileytestut
 Name: Delta
+
+Package: lunotech11.Legizmo
+Version: 1.0-21MB081325i
+Architecture: iphoneos-arm
+Maintainer: lunotech11
+Installed-Size: 1840
+Depends: firmware (>= 12.0), mobilesubstrate
+Filename: /Users/zsnell/sh4d0wph03n1x.github.io/debs/Legizmo-Release-Internal-1.0-21MB081325.deb
+Size: 291344
+MD5sum: 6af2c79a3554b40a0a5ca5f8c0cfaef3
+SHA1: e1693cc80c21f44836dbb0218ad8184d936ee434
+SHA256: 593cdfc9c4560e6ed74e736fd6fabd666d92c24a9db09fcd65fc18b032fd1d2b
+Section: Tweaks
+Description: Allow iOS to pair with newer versions of watchOS
+Tag: cydia::commercial
+Author: lunotech11
+Icon: file:///Applications/Legizmo.app/AppIcon60x60@2x.png
+Name: Legizmo (Internal Release)
 
