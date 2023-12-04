@@ -1,0 +1,14 @@
+body {
+    background-color: #1e1e1e;
+    color: #d4d4d4
+}
+
+*:not(i) {
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+a:link {
+  color: rgb(135, 159, 174);
+  background-color: transparent;
+  text-decoration: none;
+}
